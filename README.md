@@ -1,3 +1,3 @@
 # Applied Research Team in Electronics & Microcontrolled Systems (ARTEMIS)
 
-Here, there are some projects that I developed in this University Research Team from 2016 to 2018
+Some projects that I developed in the University Research Team ARTEMIS, while I was a member of the team (2016-2018)
